@@ -1,6 +1,6 @@
-### Hi I'm Eished 👋
+### Hi! I'm Eished 👋
 
-#### github基础统计信息
+### Github 基础统计信息
 <a href="https://github.com/Eished">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eished&count_private=true&show_icons=true&theme=radical" />
 </a>
