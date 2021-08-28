@@ -5,9 +5,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eished&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Eished">
+<!-- <a href="https://github.com/Eished">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eished&layout=compact" />
-</a>
+</a> -->
 <!--
 **Eished/Eished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
