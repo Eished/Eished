@@ -1,23 +1,16 @@
 ### Hi! I'm Eished 👋
 
+
+### Github 基础统计信息
+<p>
+  <a href="https://github.com/Eished">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eished&count_private=true&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 具备以下技能：
-<!-- <a href="https://github.com/Eished">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eished&layout=compact" />
-</a> -->
-<!--
-**Eished/Eished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 **Web Developer**
 
@@ -42,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -76,10 +69,3 @@ Here are some ideas to get you started:
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-
-### Github 基础统计信息
-<p>
-  <a href="https://github.com/Eished">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eished&count_private=true&show_icons=true&theme=radical" />
-  </a>
-</p>
