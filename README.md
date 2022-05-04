@@ -30,7 +30,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-red?style=flat-square&logo=WebRTC&logoColor=white" />
+  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-C50010?style=flat-square&logo=WebRTC&logoColor=white" />
+  <img alt="Nx" src="https://img.shields.io/badge/-Nx-7A6ACD?style=flat-square&logo=nx&logoColor=white" />
 </p>
 
 **Backend Developer**
