@@ -2,13 +2,9 @@
 
 
 ### Github 基础统计信息
-<p>
-  <a href="https://github.com/Eished">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eished&count_private=true&show_icons=true&theme=radical" />
-  </a>
-</p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eished&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 具备以下技能：
@@ -59,7 +55,7 @@
 <!--   <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+ 
 </p>
 
 **Cloud Platform**
@@ -71,8 +67,12 @@
 **Environment**
 
 <p>
-  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-333?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-00A9E6?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
+**Most Used Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
