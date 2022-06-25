@@ -3,7 +3,7 @@
 
 ### Github 基础统计信息
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eished&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eished&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/eished)
 
 
 
@@ -75,4 +75,4 @@
 
 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/eished)
