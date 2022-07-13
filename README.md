@@ -1,5 +1,8 @@
 ### Hi! I'm Eished 👋
 
+[Blog | 博客](https://iknow.fun)
+
+[Running | 跑步](https://run.iknow.fun)
 
 ### Github Statistics:
 
