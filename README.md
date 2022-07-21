@@ -81,25 +81,19 @@
 
 ### Study Notes | 学习笔记:
 
-[Git Notes | Git 笔记](https://github.com/Eished/git_notes)
+| English                                                      | 中文                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Git Notes](https://github.com/Eished/git_notes)             | [Git 笔记](https://github.com/Eished/git_notes)              |
+| [HTML/CSS Notes](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) | [HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) |
+| [JavaScript Notes](https://github.com/Eished/JavaScript_notes) | [JavaScript 笔记](https://github.com/Eished/JavaScript_notes) |
+| [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
+| [Fullstack Notes](https://github.com/Eished/fullstack_notes) | [全栈笔记](https://github.com/Eished/fullstack_notes)        |
+| [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
+| [Pthon Notes](https://github.com/Eished/python_notes)        | [Python笔记](https://github.com/Eished/python_notes)         |
+| [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
+| [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
+| [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
+| [Misc](https://github.com/Eished/notes)                      | [杂项笔记](https://github.com/Eished/notes)                  |
 
-[HTML/CSS Notes | HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes)
 
-[JavaScript Notes | JavaScript 笔记](https://github.com/Eished/JavaScript_notes)
-
-[Node.js Notes | Node.js 笔记](https://github.com/Eished/node_blog_notes)
-
-[Fullstack Notes | 全栈笔记](https://github.com/Eished/fullstack_notes)
-
-[C++ Notes | C++ 笔记](https://github.com/Eished/C-CPP)
-
-[Pthon Notes | Python笔记](https://github.com/Eished/python_notes)
-
-[SQL Notes | 数据库笔记](https://github.com/Eished/sql_notes)
-
-[Self Study Exam Notes | 自学考试笔记](https://github.com/Eished/self-study-exam_notes)
-
-[Language Learning Notes | 语言学习笔记](https://github.com/Eished/wfyyyf_notes)
-
-[Misc | 杂项笔记](https://github.com/Eished/notes)
 
