@@ -10,7 +10,7 @@
 
 
 
-### Technology Stack:
+### Technology Stack | 技术栈:
 
 **Web Developer**
 
@@ -89,7 +89,7 @@
 | [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
 | [Fullstack Notes](https://github.com/Eished/fullstack_notes) | [全栈笔记](https://github.com/Eished/fullstack_notes)        |
 | [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
-| [Pthon Notes](https://github.com/Eished/python_notes)        | [Python笔记](https://github.com/Eished/python_notes)         |
+| [Python Notes](https://github.com/Eished/python_notes)        | [Python笔记](https://github.com/Eished/python_notes)         |
 | [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
 | [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
 | [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
