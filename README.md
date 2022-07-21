@@ -39,6 +39,7 @@
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 <!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
   <img alt="Express" src="https://img.shields.io/badge/-Express-999999?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-326F90?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-216588?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-263140?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-26719C?style=flat-square&logo=python&logoColor=white" />
@@ -54,8 +55,8 @@
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<!--   <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nx" src="https://img.shields.io/badge/-Nx-7A6ACD?style=flat-square&logo=nx&logoColor=white" />
 </p>
@@ -89,7 +90,7 @@
 | [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
 | [Fullstack Notes](https://github.com/Eished/fullstack_notes) | [全栈笔记](https://github.com/Eished/fullstack_notes)        |
 | [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
-| [Python Notes](https://github.com/Eished/python_notes)        | [Python笔记](https://github.com/Eished/python_notes)         |
+| [Python Notes](https://github.com/Eished/python_notes)        | [Python 笔记](https://github.com/Eished/python_notes)         |
 | [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
 | [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
 | [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
