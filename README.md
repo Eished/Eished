@@ -78,3 +78,28 @@
 **Most Used Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/eished)
+
+### Study Notes | 学习笔记:
+
+[Git Notes | Git 笔记](https://github.com/Eished/git_notes)
+
+[HTML/CSS Notes | HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes)
+
+[JavaScript Notes | JavaScript 笔记](https://github.com/Eished/JavaScript_notes)
+
+[Node.js Notes | Node.js 笔记](https://github.com/Eished/node_blog_notes)
+
+[Fullstack Notes | 全栈笔记](https://github.com/Eished/fullstack_notes)
+
+[C++ Notes | C++ 笔记](https://github.com/Eished/C-CPP)
+
+[Pthon Notes | Python笔记](https://github.com/Eished/python_notes)
+
+[SQL Notes | 数据库笔记](https://github.com/Eished/sql_notes)
+
+[Self Study Exam Notes | 自学考试笔记](https://github.com/Eished/self-study-exam_notes)
+
+[Language Learning Notes | 语言学习笔记](https://github.com/Eished/wfyyyf_notes)
+
+[Misc | 杂项笔记](https://github.com/Eished/notes)
+
