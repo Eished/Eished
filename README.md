@@ -9,7 +9,7 @@
 | English                                                      | 中文                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Git Notes](https://github.com/Eished/git_notes)             | [Git 笔记](https://github.com/Eished/git_notes)              |
-| [Markdown notes](https://github.com/Eished/Markdown_notes)   | [Markdown 笔记](https://github.com/Eished/Markdown_notes)    |
+| [Markdown Notes](https://github.com/Eished/Markdown_notes)   | [Markdown 笔记](https://github.com/Eished/Markdown_notes)    |
 | [HTML/CSS Notes](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) | [HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) |
 | [JavaScript Notes](https://github.com/Eished/JavaScript_notes) | [JavaScript 笔记](https://github.com/Eished/JavaScript_notes) |
 | [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
