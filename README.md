@@ -51,10 +51,11 @@
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 <!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
   <img alt="Express" src="https://img.shields.io/badge/-Express-999999?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-326F90?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-216588?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-263140?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-26719C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 </p>
 
 **Mobile App Developer**
