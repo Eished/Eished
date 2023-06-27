@@ -4,22 +4,8 @@
 
 [Running | 跑步](https://run.iknow.fun)
 
-### Study Notes | 学习笔记:
-
-| English                                                      | 中文                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Git Notes](https://github.com/Eished/git_notes)             | [Git 笔记](https://github.com/Eished/git_notes)              |
-| [Markdown Notes](https://github.com/Eished/Markdown_notes)   | [Markdown 笔记](https://github.com/Eished/Markdown_notes)    |
-| [HTML/CSS Notes](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) | [HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) |
-| [JavaScript Notes](https://github.com/Eished/JavaScript_notes) | [JavaScript 笔记](https://github.com/Eished/JavaScript_notes) |
-| [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
-| [Fullstack Notes](https://github.com/Eished/fullstack_notes) | [全栈笔记](https://github.com/Eished/fullstack_notes)        |
-| [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
-| [Python Notes](https://github.com/Eished/python_notes)        | [Python 笔记](https://github.com/Eished/python_notes)         |
-| [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
-| [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
-| [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
-| [Misc](https://github.com/Eished/notes)                      | [杂项笔记](https://github.com/Eished/notes)                  |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eished&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/eished)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/eished)
 
 
 ### Technology Stack | 技术栈:
@@ -28,7 +14,6 @@
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-grey?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -49,6 +34,7 @@
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-grey?style=flat-square&logo=nextdotjs&logoColor=white" />
 <!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
   <img alt="Express" src="https://img.shields.io/badge/-Express-999999?style=flat-square&logo=express&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
@@ -62,6 +48,7 @@
 
 <p>
   <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7D80EF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="expo" src="https://img.shields.io/badge/-Expo-7D80EF?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
 **DevOps**
@@ -89,14 +76,20 @@
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-00A9E6?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
+### Study Notes | 学习笔记:
 
-### Github Statistics:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eished&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/eished)
-
-
-**Most Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eished&hide=css,html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/eished)
-
+| English                                                      | 中文                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Git Notes](https://github.com/Eished/git_notes)             | [Git 笔记](https://github.com/Eished/git_notes)              |
+| [Markdown Notes](https://github.com/Eished/Markdown_notes)   | [Markdown 笔记](https://github.com/Eished/Markdown_notes)    |
+| [HTML/CSS Notes](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) | [HTML/CSS 笔记](https://github.com/Eished/HTML5-CSS-JS-BS-jQ-CJS-TS_notes) |
+| [JavaScript Notes](https://github.com/Eished/JavaScript_notes) | [JavaScript 笔记](https://github.com/Eished/JavaScript_notes) |
+| [Node.js Notes](https://github.com/Eished/node_blog_notes)   | [Node.js 笔记](https://github.com/Eished/node_blog_notes)    |
+| [Fullstack Notes](https://github.com/Eished/fullstack_notes) | [全栈笔记](https://github.com/Eished/fullstack_notes)        |
+| [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
+| [Python Notes](https://github.com/Eished/python_notes)        | [Python 笔记](https://github.com/Eished/python_notes)         |
+| [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
+| [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
+| [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
+| [Misc](https://github.com/Eished/notes)                      | [杂项笔记](https://github.com/Eished/notes)                  |
 
