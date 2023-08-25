@@ -89,6 +89,7 @@
 | [C++ Notes](https://github.com/Eished/C-CPP)                 | [C++ 笔记](https://github.com/Eished/C-CPP)                  |
 | [Python Notes](https://github.com/Eished/python_notes)        | [Python 笔记](https://github.com/Eished/python_notes)         |
 | [SQL Notes](https://github.com/Eished/sql_notes)             | [数据库笔记](https://github.com/Eished/sql_notes)            |
+| [Machine Learning Notes](https://github.com/Eished/Machine-learning_notes)             | [机器学习笔记](https://github.com/Eished/Machine-learning_notes)            |
 | [Self Study Exam Notes](https://github.com/Eished/self-study-exam_notes) | [自学考试笔记](https://github.com/Eished/self-study-exam_notes) |
 | [Language Learning Notes](https://github.com/Eished/wfyyyf_notes) | [语言学习笔记](https://github.com/Eished/wfyyyf_notes)       |
 | [Misc](https://github.com/Eished/notes)                      | [杂项笔记](https://github.com/Eished/notes)                  |
